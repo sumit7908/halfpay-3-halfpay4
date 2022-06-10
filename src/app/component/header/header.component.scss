@@ -1,0 +1,26 @@
+.form-control {
+    border-radius: 3px;
+    width: 600px;
+    margin-left: 20px;
+}
+
+.search-icon {
+    position: relative;
+    z-index: 10;
+    right: 3%;
+    top: 8px;
+    color:rgb(4, 4, 4);
+}
+/* /=== MEDIA QUERY ===/ */
+@import url("https://fonts.googleapis.com/css?family=Muli:300,400,600,700,800,900");
+body {
+  line-height: 1.5;
+  font-family: "Muli", sans-serif;
+}
+.nav-link {
+  position:relative;
+  z-index:10;
+  right: -325px;
+  top: 1px;
+  color:rgb(5, 5, 5);
+} 
